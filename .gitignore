@@ -3,8 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
 
 # VSCode and PyCharm config
 .vscode/
@@ -22,13 +20,9 @@ env/
 Thumbs.db
 
 # Output directories
-output/
 reports/
 html/
-*.html
 
-# Excel and CSV files (original or intermediate)
-*.csv
 
 # Data profiling reports
 *.html
@@ -40,9 +34,6 @@ html/
 *.bak
 *.swp
 
-# Jupyter runtime and metadata
-*.nbconvert.ipynb
-*.ipynb
 
 # IPython history
 .history
