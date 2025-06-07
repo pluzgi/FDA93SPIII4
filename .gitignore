@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and PyCharm config
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env
+.venv/
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output directories
+output/
+reports/
+html/
+*.html
+
+# Excel and CSV files (original or intermediate)
+input/*.xlsx
+*.csv
+
+# Data profiling reports
+*.html
+*.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Jupyter runtime and metadata
+*.nbconvert.ipynb
+*.ipynb
+
+# IPython history
+.history
+.ipython/
+
+# MacOS / Linux hidden files
+._*
+.Spotlight-V100
+.Trashes
+
+# Python dependency files (optional)
+poetry.lock
+Pipfile.lock
