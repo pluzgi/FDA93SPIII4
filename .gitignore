@@ -28,7 +28,6 @@ html/
 *.html
 
 # Excel and CSV files (original or intermediate)
-input/*.xlsx
 *.csv
 
 # Data profiling reports
@@ -57,3 +56,8 @@ input/*.xlsx
 # Python dependency files (optional)
 poetry.lock
 Pipfile.lock
+
+*.pickle
+*.zip
+
+nltk_data/
